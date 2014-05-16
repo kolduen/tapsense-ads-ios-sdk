@@ -2,7 +2,7 @@
 
 ## Download
 
-The TapSense SDK is a compiled framework that you can include in your application.
+The TapSense SDK is a compiled framework that you can include in your application. With the TapSense Publisher SDK, start monetizing your apps from premium demand partners using banner, interstitial, and native ad units.
 
 * **[TapSense Base SDK.zip] (https://s3.amazonaws.com/ts-sdks/ios-pub/tapsense_ios_publisher_sdk_2.14_full.zip)**
 
