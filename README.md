@@ -6,7 +6,7 @@ With the TapSense Publisher SDK, start monetizing your apps from premium demand 
 
 The TapSense SDK is a compiled framework that you can include in your application.
 
-* **[TapSense Base SDK.zip] (https://s3.amazonaws.com/ts-sdks/ios-pub/tapsense_ios_publisher_sdk_2.13_full.zip)**
+* **[TapSense Base SDK.zip] (https://s3.amazonaws.com/ts-sdks/ios-pub/tapsense_ios_publisher_sdk_2.13_base.zip)**
 
   Get premium CPM from the TapSense RTB Marketplace. This version does not include support for 3rd-party Ad Networks.
 
