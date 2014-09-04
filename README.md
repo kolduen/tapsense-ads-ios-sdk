@@ -16,5 +16,11 @@ The TapSense SDK is a compiled framework that you can include in your applicatio
 
 The current SDK version is 2.1.4.
 
+TapSense highly recommends using Xcode 6 for SDK integration. However, if Xcode 6 is not avaliable, please download the following Xcode 5-compatible versions:
+
+* **[TapSense Base SDK.zip for Xcode 5] (https://s3.amazonaws.com/ts-sdks/ios-pub/tapsense_ios_publisher_sdk_2.1.4-xcode5_base.zip)**
+
+* **[TapSense Full SDK.zip for Xcode 5] (https://s3.amazonaws.com/ts-sdks/ios-pub/tapsense_ios_publisher_sdk_2.1.4-xcode5_full.zip)**
+
 ## Integration
 For the getting started guide, please view our [wiki] (https://github.com/TapSense/tapsense-ads-ios-sdk/wiki).
